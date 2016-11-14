@@ -1,5 +1,5 @@
-com.citytechinc.aem.groovy.extension.api
-com.citytechinc.aem.groovy.extension.builders
-com.citytechinc.aem.groovy.extension.metaclass
-com.citytechinc.aem.groovy.extension.services
-com.citytechinc.aem.groovy.extension.services.impl
+com.icfolson.aem.groovy.extension.api
+com.icfolson.aem.groovy.extension.builders
+com.icfolson.aem.groovy.extension.metaclass
+com.icfolson.aem.groovy.extension.services
+com.icfolson.aem.groovy.extension.services.impl
